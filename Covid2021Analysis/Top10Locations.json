@@ -1,0 +1,62 @@
+[
+  {
+    "location": "Andorra",
+    "population": 77265,
+    "MaximumCases": "13232",
+    "InfectionRate": "17.1300"
+  },
+  {
+    "location": "Montenegro",
+    "population": 628062,
+    "MaximumCases": "97389",
+    "InfectionRate": "15.5100"
+  },
+  {
+    "location": "Czechia",
+    "population": 10708982,
+    "MaximumCases": "1630758",
+    "InfectionRate": "15.2300"
+  },
+  {
+    "location": "San Marino",
+    "population": 33938,
+    "MaximumCases": "5066",
+    "InfectionRate": "14.9300"
+  },
+  {
+    "location": "Slovenia",
+    "population": 2078932,
+    "MaximumCases": "240292",
+    "InfectionRate": "11.5600"
+  },
+  {
+    "location": "Luxembourg",
+    "population": 625976,
+    "MaximumCases": "67205",
+    "InfectionRate": "10.7400"
+  },
+  {
+    "location": "Bahrain",
+    "population": 1701583,
+    "MaximumCases": "176934",
+    "InfectionRate": "10.4000"
+  },
+  {
+    "location": "Serbia",
+    "population": 6804596,
+    "MaximumCases": "689557",
+    "InfectionRate": "10.1300"
+  },
+  {
+    "location": "United States",
+    "population": 331002647,
+    "MaximumCases": "32346971",
+    "InfectionRate": "9.7700"
+  },
+  {
+    "location": "Israel",
+    "population": 8655541,
+    "MaximumCases": "838481",
+    "InfectionRate": "9.6900"
+  }
+]
